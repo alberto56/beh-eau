@@ -1,1 +1,1 @@
-https://www.free-css.com/free-css-templates/page289/hotelier
+https://bootstrapbrain.com/template/free-bootstrap-5-multipurpose-one-page-template-wave/
