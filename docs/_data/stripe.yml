@@ -1,0 +1,13 @@
+products:
+  - id: base
+    stripe_link: https://buy.stripe.com/test_4gwbM9aH84Ooeoo288
+    title: Livraison d'eau
+    price: 20
+  - id: premium
+    size: large
+    stripe_link: https://buy.stripe.com/test_14kg2p4iK4Oo2FG6op
+    title: Deux services
+    price: 50
+    services:
+      ordures: Yes
+      prioritaire: Yes
