@@ -499,8 +499,10 @@
           </div>
           <div class="col-12 col-lg-7">
             <div class="row gy-4 gy-md-0 gx-xxl-5">
+              {{ site.data.stripe.products | jsonify }}
               {% for product in site.data.stripe.products %}
                 <!-- product goes here-->
+                PRODUCT GOES HERE
                 {% include product-card.html %}
               {% endfor %}
             </div>
